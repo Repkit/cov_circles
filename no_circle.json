@@ -1,0 +1,74 @@
+[
+  {
+    "Buyer": "Shippingo",
+    "Seller": "Agrigora",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "ABC123",
+    "Delivery": "14.07.23",
+    "USD": 1000
+  },
+  {
+    "Buyer": "Agrigora",
+    "Seller": "Mercane",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "CDE123",
+    "Delivery": "14.07.23",
+    "USD": 2000
+  },
+  {
+    "Buyer": "Mercane",
+    "Seller": "Tradegrainy",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "KLM13",
+    "Delivery": "14.07.23",
+    "USD": 1500
+  },
+  {
+    "Buyer": "Tradegrain",
+    "Seller": "Agrigora",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "PRO421",
+    "Delivery": "14.07.23",
+    "USD": 2400
+  },
+  {
+    "Buyer": "AgrigoraSRL",
+    "Seller": "Shippingo",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "RPK421",
+    "Delivery": "14.07.23",
+    "USD": 1700
+  },
+  {
+    "Buyer": "LennyTrade",
+    "Seller": "Sugarland",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "LNT555",
+    "Delivery": "14.07.23",
+    "USD": 1200
+  },
+  {
+    "Buyer": "Sugarland",
+    "Seller": "Mondial",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "AAA222",
+    "Delivery": "14.07.23",
+    "USD": 800
+  },
+  {
+    "Buyer": "Mondial",
+    "Seller": "Shippingo",
+    "Quantity": 5000,
+    "Product": "SBS",
+    "Contract": "BBB232",
+    "Delivery": "14.07.23",
+    "USD": 1200
+  }
+]
